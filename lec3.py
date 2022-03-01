@@ -65,3 +65,5 @@ print(len(my_unique_letters))
 print('a' in my_unique_letters)
 
 print(list(my_unique_letters)[0])
+
+print (len(('this is a string').split()))
